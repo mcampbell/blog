@@ -1,0 +1,51 @@
+# Shri answer
+Hi Shri,
+
+I'm certainly no expert on any of this but I will give you my opinion.
+
+First of all, the answer for all of them is of course, "it depends", but I'll try to expand a bit on each one.
+
+1. How to train a candidate for a given technology (say like for React/Angular/Java)
+
+This can be a very personal thing for people; some like to dive in and start working with the tech and figure it all out on their own as they go, some people like to do a lot of research/reading before they start, some like a combination (tutorials where you following along), etc.
+
+If this is to train someone once they get in a new role there are equally varying methods.  Byzzer was very much "on your own" which is typical of startups, where I am now is much like this too.  That's both a good and bad sign; it means either they trust you to get going without help (good), OR they rely on many technologists "passion" to do this sort of work on their own time and haven't spent the time to come up with a good onboarding plan (bad).
+
+There are a lot of articles on about onboarding; you should take some time and read them to see what you like.
+
+*PERSONALLY*, I feel like some small sample application that uses the company's tech, coding standards, overall architecture, and CI/CD tools and procedures, but doesn't actually affect production is a great middle ground, but that takes a lot of work.  But if you can come up with a good one, it introduces the candidate to all the things they'll need "for real" in a stress-free environment where they can't break anything real.
+
+As a technology leader, it's very much on you to ensure as much as you can the success of your team, and onboarding, coaching, mentoring, etc. is a huge part of that.  A lot of tech people are in the "just figure it out, because that's how I did it" camp, which I find unhelpful.  As I said, not everyone learns that way, and that's OK.
+
+
+2. How to interview a candidate for a job position?
+
+Oh, lord, tech interviewing is awful.  It has always been awful, and I don't see it changing any time soon.  Again, *LOTS* of articles on this (mostly on how NOT to interview), so go read some of them; they'll have a lot more information on this.  But most of it depends on what role you're interviewing for, or more specifically, what you want them to do for the company, and how quickly you can _realistically_ expect them to do it.  If you need them doing meaningful coding quickly, the interview should contain some coding exercises.  Interviewing is very stressful, so whiteboard-coding, or a coding exercise "live" is generally a bad idea, since you don't get a candidates honest representation.  As you probably know, there are times you need some quiet alone time to think about things, which is hard to do in an interview.  I kept this quote I saw recently because I think it's quite insightful:
+
+> Software product management has gone as bonkers as the rest of the country has in politics. It's all about fads now. It's like the Kardashians. Things are popular because they are popular. The micromanagement shit show that Agile has become. Jira, which does everything - poorly; git, which now makes you focus on the plumbing of code updates instead of actually writing the code. Software development is now about closing tickets and getting across an imaginary goal line.
+
+> Newsflash: Most software developers got into it because they were introverts who liked puzzles. Many, most in fact, were not into team sports (i.e. collaboration). Software development is not a football game.
+
+
+Some alternatives there are take-home exercises (do note though that beyond a certain experience level, you may get candidates that just refuse to do them and would rather discuss work they've already done on github or similar; up to you how to handle that), or going over in some detail some public work they've done, if they've done any.  But you generally want to look at their code, have them explain it, explain why things are done the way they were, etc.  There's fraud out there, so you want to ensure the person you're talking to actually wrote the code, so they should know a good bit about it.
+
+Another option is a "Product requirement", and just have them talk through how they'd code it.  Let them code if they want (if it's small enough), or pseudo code, or architecture/class diagrams, or whatever they want to start coming up with some solutions.  The questions they ask, and how they handle the answers can be good indicators.
+* Are they diving into details right off?  (I'm guilty of this)
+* Are they asking about alternatives?  Maybe pushing back on requirements; figuring out how to "thin slice" a big feature into smaller things that can be delivered quicker?
+* Are they lost?  Are they even ASKING questions?
+
+Does it differ for a fresher and Experienced professional?
+
+Absolutely.  The less experienced they are, the more you'll want to assess for the ability to pick up things more than what they say they already know.  As you go up the ladder its going to be less about coding and more about bigger picture concerns; architecture, leadership, decision making, tradeoffs, working with other groups, etc.
+
+
+3. When to do a post graduation? How much a difference it makes for the job we do? Does it have any specific benefits?
+Or its all about the technology we are gonna work in a particular project?
+
+This is a hard one.  For being a developer, I haven't seen much evidence that higher level degrees corellate with coding skill.  You'll be exposed to more concepts in a more rigorous manner so might have a deeper understanding of them, but honestly, 90% of coding jobs out there don't require it; we're mostly slapping 3rd party libraries together in whatever language to satisfy whatever requirements come from a Product organization to kind of loosely manage a CRUD app.  The interesting areas these days are mostly around handling scale.  And arguably machine learning/AI/data science, but that's currently on the "hype cycle" and I think is unnecessary for MOST applications these days.
+
+I'm all for advanced degrees, although I do not have one.  I have the 4 year computer science degree, and it saddens me a little bit that this industry not only doesn't require a CS degree, but in some circles actively discourages them. My degree was from a good school, back when we actually studied proofs and lots of languages and did some significant projects.  Many do none of those things these days, so I understand the idea that "CS majors can't code", and like I said, coding for the vast, vast majority of projects these days will never need those skills; as you alluded to its more about knowing the languages, frameworks, and libraries of the tech you're using.
+
+So, the answer to that question, if you were considering getting an graduate degree, is "get one if you feel you want one".  It's not _necessary_ to advance in this domain I don't feel, but I kind of regret not going forward myself for personal reasons.
+
+Hope this was helpful.

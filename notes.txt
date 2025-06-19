@@ -1,0 +1,10 @@
+* computer/brain mapping, Levels of abstraction, languages
+
+* What are functions FOR
+- everything is imperitive
+- DRY, but when actually reused
+- comments-to-code
+- rabbit holes!
+- a different level of encapsulation; what vs how
+
+* perfect/good

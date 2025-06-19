@@ -1,0 +1,30 @@
+---
+author: Michael
+layout: post
+---
+
+I've run across this a few times now, and it baffles me.  Let me start by saying, "I Am
+Not Good With People(tm)".  I don't know if it's nature or nurture, but I can't read
+people and don't understand motivations well.  So there's that.
+
+The thing that baffles me is the ability for some people, usually in management, to
+legitimately believe that development teams can just ... "go faster".  That they can go
+_ANY_ speed other than the speed they're going raises an eyebrow, but faster?  I mean
+sure, for a short time, at the cost of any number of quality measures, but most devs I
+have worked with either go unacceptably slowly because they don't enjoy what they're
+doing, or as fast as they can because they do, and they want to get to the next thing.
+
+Too, when someone expects development to go faster, they just totally miss the fact that
+the speed we're going _now_ is what got us to where we are.  And the reason we're NOT
+going faster than we were is because of scale.  We have more code now, with `2^n`
+interactions between units where `n` is only getting bigger.  More stuff to break, more
+interactions to fail in novel ways, more stuff to remember, more downstream effects of
+going fast *up to now*.
+
+I worked with a Product guy for some years whose answer to everything was, "creative
+thinking", as if development isn't already at least partially a creative endeavor.  And to
+him, that was all it took.  Just more "creative thinking".
+
+I don't understand why some layers of non-technical people think developers are infinitely
+creative or we have this inexhaustble supply of productivity that we can just turn on.  Do
+you think we wouldn't have done that already if we could?

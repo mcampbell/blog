@@ -1,0 +1,29 @@
+* What are functions FOR
+- everything is imperitive
+- DRY, but when actually reused
+- comments-to-code
+- rabbit holes!
+- a different level of encapsulation; what vs how
+
+* perfect/good
+
+* PRs, code reviews "not how I would have done it"
+
+* "DRY is a tool..." (testing)
+-- Rspec; overuse of DRY, let, contexts, linearity
+
+* C-levels, incidents
+
+
+
+
+1. Importance of understanding requirements completely before writing first line of code
+2. How to choose a development process for team? Agile Scrum? Kanban? Or a mix of these? Something totally new?
+3. Importance of unit tests
+4. Coding conventions and PRs
+5. How often should a team involve in POCs and PIs against the normal feature work?
+6. Importance of multiple small components against a single big component
+7. Usage of In-built library vs third party libraries in codebase
+8. Returning json data from api vs rendering ui jsx from api
+9. Naming conventions
+-- 10. Which is better? Dev having specialisation in one Language/ technology vs wide range of exposure in multiple languages/technologies?
