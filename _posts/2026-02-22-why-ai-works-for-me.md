@@ -8,7 +8,7 @@ layout: post
 I read a reddit post today asking [Is Claude Writing Better Code Than Most Of Us?](https://www.reddit.com/r/ClaudeCode/comments/1rbets0/is_claude_actually_writing_better_code_than_most/).
 
 For me, the answer reminds me of Matt Lucas' "Vicky Pollard" character in Little
-Britian, whose catchphrase is "Yes, but no, but yes, but no, but...".  Let me
+Britian, whose catchphrase is "Yeah, but no, but yeah, but no, but...".  Let me
 explain.
 
 ## TL;DR
