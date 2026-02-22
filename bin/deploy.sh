@@ -64,8 +64,8 @@ trap cleanup EXIT
 
 cd "$HERE"
 cd ..
-JEKYLL_ENV=production jekyll build
-if [ "$(hostname)" = "unixgeek-1vcpu-1gb-nyc1-01" ]; then
+JEKYLL_ENV=production bundle exec jekyll build
+if [ "$(hostname)" = "unixgeek-s-1vcpu-2gb-nyc3-01-2026-01-26" ]; then
     rsync -arvz --stats --progress  _site/* $HOME/nginx/content/blog
 else
     rsync -arvz --stats --progress  _site/* mcampbell@unixgeek.com:nginx/content/blog
